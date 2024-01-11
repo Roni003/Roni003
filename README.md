@@ -2,7 +2,7 @@
 👨‍🎓 I am a second year Computer Science student at Queen Mary university of london.<br>
 🧠 Currently learning more about React.js and other front end javascript libraries.<br>
 💭 Intererested in back end developement and cloud computing.<br>
-🌱 Working towards mastering AWS's many services, mainly Elastic Beanstalk, S3 and Lambda.<br>
+🌱 Working towards mastering AWS's many services.<br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roni-kazmirci-erg%C3%BCn-028581254)
 
 # 💻 Languages & Technologies:
