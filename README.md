@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Roni 
-👨‍🎓 I am a second year Computer Science student at Queen Mary university of london.<br>
-🧠 Currently learning more about React.js and back-end JavaScript libraries.<br>
+👨‍🎓 I am a second year Computer Science student at Queen Mary University of London.<br>
+🧠 Currently learning more about React and back-end JavaScript frameworks.<br>
 💭 Intererested in back end developement and cloud computing.<br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roni-kazmirci-erg%C3%BCn-028581254)
 
