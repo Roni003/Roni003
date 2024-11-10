@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Roni 
-👨‍🎓 I am a second year Computer Science student at Queen Mary University of London.<br>
+👨‍🎓 I am a third year Computer Science student.<br>
 💭 Intererested in back end developement and cloud computing.<br>
 
 # 💻 Languages & Technologies:
