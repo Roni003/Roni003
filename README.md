@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Roni 
-👨‍🎓 I am a final year Computer Science student.<br>
+👨‍🎓 I am a final year BSc Computer Science student.<br>
 💭 Intererested in back end development and cloud computing.<br>
 
 # 💻 Languages & Technologies:
