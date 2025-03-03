@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Roni 
-👨‍🎓 I am a final year BSc Computer Science student, planning on pursuing a master's degree in Advanced Computing.<br>
+👨‍🎓 I am a final year BSc Computer Science student, expecting to start a master's degree in Computing in 2025.<br>
 💭 Interested in backend development and cloud computing.<br>
 
 # 💻 Languages & Technologies:
